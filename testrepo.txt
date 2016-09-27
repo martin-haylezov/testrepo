@@ -1,1 +1,4 @@
 first line. init line.
+second line. --modified
+third line. changed after "staged" --add
+4 - change after "staged"
