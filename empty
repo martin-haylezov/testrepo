@@ -1,2 +1,4 @@
 replace first line
 insert second line after it is staged
+added after commit
+# new line added after staged file
