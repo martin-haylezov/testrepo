@@ -1,3 +1,1 @@
-# testrepo
-my first repository
-added new row in file
+file was updated with new data
