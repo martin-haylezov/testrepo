@@ -4,3 +4,4 @@ third line. changed after "staged" --add
 4 - change after "staged"
 5 - change after commit - modified
 6 - change after commit - staged
+7 - changes in new branch - testV1
